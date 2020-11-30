@@ -1,6 +1,6 @@
 ## Hey! 👋 My name is Gary Byrne
 
-[![Linkedin Badge](https://img.shields.io/badge/-byrneg39-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byrneg39/)](https://www.linkedin.com/in/byrneg39/) [![Github Badge](https://img.shields.io/badge/-garyb1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/garyb1/)](https://www.github.com/garyb1/) [![Twitter Badge](https://img.shields.io/badge/-garybyrne1995-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/garybyrne1995/)](https://www.twitter.com/garybyrne1995/) <a href="https://YouTube.com/UC8TZPGDUP4AEPX1uGRDFPyg"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+[![Linkedin Badge](https://img.shields.io/badge/-byrneg39-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byrneg39/)](https://www.linkedin.com/in/byrneg39/) [![Github Badge](https://img.shields.io/badge/-garyb1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/garyb1/)](https://www.github.com/garyb1/) [![Twitter Badge](https://img.shields.io/badge/-garybyrne1995-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/garybyrne1995/)](https://www.twitter.com/garybyrne1995/) <a href="https://YouTube.com/channel/UC8TZPGDUP4AEPX1uGRDFPyg"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
 <p align='left'>A frontend developer based in South East Ireland.
 
