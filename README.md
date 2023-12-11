@@ -2,11 +2,11 @@
 
 Senior Frontend Engineer | Designer | Accessibility Advocate
 
-🚀 Passionate about building scalable design systems and crafting inclusive digital experiences.
+<span aria-hidden="true">🚀</span> Passionate about building scalable design systems and crafting inclusive digital experiences.
 
-💼 Currently exploring the intersection of design and development, advocating for accessibility best practices
+<span aria-hidden="true">💼</span> Currently exploring the intersection of design and development, advocating for accessibility best practices
 
-🎨 Comfortable with Figma, bridging the gap between design and development.
+<span aria-hidden="true">🎨 </span>Comfortable with Figma, bridging the gap between design and development.
   
 <details>
   <summary>GitHub Stats</summary>
@@ -26,5 +26,5 @@ Senior Frontend Engineer | Designer | Accessibility Advocate
 
 <hr aria-hidden="true" />
 
-<p align="center">Coding from the Sunny South East of Ireland 🇮🇪</p>
+<p align="center">Coding from the Sunny South East of Ireland <span aria-hidden="true"> 🇮🇪</span></p>
 <hr aria-hidden="true" />
