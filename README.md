@@ -1,6 +1,6 @@
 ### Hello World (Dia Duit) 👋
 
-Senior Frontend Engineer | Designer | Accessibility Advocate
+Senior Accessibility Engineer & Designer
 
 <span aria-hidden="true">🚀</span> Passionate about building scalable design systems and crafting inclusive digital experiences.
 
